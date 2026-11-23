@@ -23,6 +23,7 @@ Calendar tax year for individuals. Income tax authority: the Franchise Tax Board
 
 | Domain | Skill | Status |
 |---|---|---|
+| Special taxes and fees, California Tire Fee (USD 1.75 per new tire) | ca-tire-fee | checked against the law |
 | IT-IND, individual income tax (method, the `covered_by` owner) | ca-540-individual-return | checked against the law (partial) |
 | IT-IND, individual income tax (figures card, linked from the method) | ca-income-tax | checked against the law (partial) |
 | IT-IND, estimated tax | ca-estimated-tax-540es | checked against the law |
